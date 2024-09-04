@@ -1,2 +1,2 @@
 # weather-Detector
-This is my firt github program
+This is my firt github repository
