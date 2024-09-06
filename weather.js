@@ -14,6 +14,7 @@ async function checkWeather(cityName){
     city.innerHTML = data.name;
     temp.innerHTML = Math.round(data.main.temp)+ "°c";
     humidity.innerHTML = data.main.humidity+"%";
+    
     windSpeed.innerHTML = data.wind.speed+"km/h";
 }
 
