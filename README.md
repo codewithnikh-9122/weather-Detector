@@ -1,4 +1,4 @@
 # weather-Detector
-This is my firt github repository
+This is my first github repository
 <br>
 author -nikhil
